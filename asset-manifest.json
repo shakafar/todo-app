@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/shakafar/todo-app.git/static/css/main.399b6524.chunk.css",
+    "main.js": "/shakafar/todo-app.git/static/js/main.16db2e40.chunk.js",
+    "main.js.map": "/shakafar/todo-app.git/static/js/main.16db2e40.chunk.js.map",
+    "runtime-main.js": "/shakafar/todo-app.git/static/js/runtime-main.e9c32ecb.js",
+    "runtime-main.js.map": "/shakafar/todo-app.git/static/js/runtime-main.e9c32ecb.js.map",
+    "static/js/2.ab40c02d.chunk.js": "/shakafar/todo-app.git/static/js/2.ab40c02d.chunk.js",
+    "static/js/2.ab40c02d.chunk.js.map": "/shakafar/todo-app.git/static/js/2.ab40c02d.chunk.js.map",
+    "index.html": "/shakafar/todo-app.git/index.html",
+    "precache-manifest.8b46d30f74981e7c03ec175676513d8a.js": "/shakafar/todo-app.git/precache-manifest.8b46d30f74981e7c03ec175676513d8a.js",
+    "service-worker.js": "/shakafar/todo-app.git/service-worker.js",
+    "static/css/main.399b6524.chunk.css.map": "/shakafar/todo-app.git/static/css/main.399b6524.chunk.css.map",
+    "static/js/2.ab40c02d.chunk.js.LICENSE.txt": "/shakafar/todo-app.git/static/js/2.ab40c02d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e9c32ecb.js",
+    "static/js/2.ab40c02d.chunk.js",
+    "static/css/main.399b6524.chunk.css",
+    "static/js/main.16db2e40.chunk.js"
+  ]
+}
