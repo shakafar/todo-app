@@ -1,0 +1,12 @@
+Conceptos.txt
+
+therefore = por lo tanto
+
+climb a ladder = elevar o transmitir un evento desde 
+un componente hijo hasta uno padre o superior
+
+Note: We are using this.handleChange
+to reference the handleChange() method because
+it is part of the class. = TodoContainer.js Ln 12, Col 40++
+
+setState = metodo que permite modificar estados
